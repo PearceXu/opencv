@@ -22,3 +22,9 @@ bin/
 *.log
 *.tlog
 build
+
+
+opencv_vs
+*/CMakeFiles
+CMakeCache.txt
+CMakeFiles/cmake.check_cache
